@@ -1,1 +1,1 @@
-print("Hello from Jenkins Build from my local macbook")
+prin("Hello from Jenkins Build from my local macbook")
